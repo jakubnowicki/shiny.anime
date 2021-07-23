@@ -1,0 +1,13 @@
+Package: shiny.anime
+Type: Package
+Title: Implementation of anime.js library
+Version: 0.1.0
+Authors@R: person("Jakub", "Nowicki", email = "q.nowicki@gmail.com", role = c("aut", "cre"))
+Description: Implementation of anime.js library.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    shiny,
+    htmltools
+RoxygenNote: 7.1.1
