@@ -2,5 +2,5 @@
 
 export(trigger_animation)
 export(use_anime)
-import(htmltools)
-import(shiny)
+importFrom(htmltools,htmlDependency)
+importFrom(shiny,getDefaultReactiveDomain)
